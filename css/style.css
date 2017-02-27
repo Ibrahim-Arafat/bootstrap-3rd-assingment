@@ -1,0 +1,209 @@
+.col-md-3{
+ padding: 10px 0px;
+}
+
+.col-md-9{
+	text-transform: uppercase;
+
+}
+
+.col-md-9 ul li a {
+	padding: 10px 35px;
+}
+
+#slider-section{
+	background-image: url(../images/lol.jpg);
+	background-size: cover;
+	height: 85vh;
+	position: relative;
+}
+
+.slider-caption {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+
+.slider-caption{
+
+}
+.slider-caption h1{
+	font-size: 6em;
+    color: white;
+    font-weight: 600;
+    margin: 0 auto;
+}
+
+.slider-caption p {
+	font-size: 20px;
+	color: white;
+}
+
+.slider-caption hr {
+
+    border-top: 1px solid #15a4fa;
+}
+
+
+#simple{
+	background-color: #F6F9F9;
+    padding: 70px 0px;
+
+}
+
+#simple h3{
+	font-size: 40px;
+	font-weight: 400;
+}
+
+#simple p{
+
+	font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    padding: 20px;
+    color: rgba(10, 11, 39, 0.52);
+}
+
+#comp-features{
+padding: 40px 0px;
+}
+
+.features{
+	text-align: center;
+}
+
+.protpolio-header{
+	font-size: 41px;
+    font-family: 'Lato', sans-serif;
+}
+.protpolio-header p{
+	font-size: 20px;
+	font-family: 'Lato', sans-serif;
+}
+#protpolio-section p{
+	font-size: 20px;
+	font-family: 'Lato', sans-serif;
+
+}
+
+  #protpolio-section{
+    padding-top: 70px;
+    padding-bottom: 70px;
+    background-color: #e4ecec;
+}
+
+.col-sm-12 img{
+	height: 265px;
+	margin-bottom: 20px;
+}
+
+.closeup {
+	margin-bottom: 70px;
+}
+
+
+#footer-image{
+	background-image: url(../images/roadpicture.jpg);
+	height: 100vh;
+	width: auto;
+	position: relative;
+}
+
+.over-color{
+	top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: rgba(19, 33, 53, 0.81);
+}
+
+.footer{
+	position: absolute;
+    top: 15%;
+    left: 40%;
+    transform: translateY(-50%,-50%);
+}
+
+#footer-image h2{
+
+    font-size: 37px;
+    color: #fff;
+    font-weight: 600;
+}
+
+#footer-image p{
+    font-size: 15px;
+    color: #fff;
+    padding: 0 14px;
+
+}
+
+.form-control {
+	display: block;
+    width: 400px;
+    height: 34px;
+    padding: 6px 29px;
+    margin: 7px 0px 0px -75px;
+    font-size: 20px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: rgba(255, 255, 255, 0);
+    background-image: none;
+    border: 1px solid #4190d0;
+    border-radius: 4px;
+    text-transform: capitalize; 
+    }  
+
+.radio label, .checkbox label {
+    min-height: 20px;
+    padding-left: 25px;
+    font-weight: normal;
+    cursor: pointer;
+    padding: 0 0 0 0px;
+    margin: 0 0 0 0px;
+	color: white;
+}
+
+.navbar-right {
+    float: right !important;
+    margin-right: 130px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid rgb(31, 139, 187);
+    border-radius: 4px;
+    background-color: rgba(44, 111, 136, 0.09);
+    color: white;
+}
+
+#copy-right{
+	padding: 20px 0px;
+	background-color: white;
+}
+
+#copy-right p{
+	color: currentColor;
+	font-size: 18px;
+	font-weight: 600;
+
+}
